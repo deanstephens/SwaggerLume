@@ -7,7 +7,7 @@
 SwaggerLume
 ==========
 
-Swagger 2.0 for Lumen 5
+Swagger 2.0 for Lumen 5 with slate styling
 
 This package is a wrapper of [Swagger-php](https://github.com/zircote/swagger-php) and [swagger-ui](https://github.com/swagger-api/swagger-ui) adapted to work with Lumen 5.
 
